@@ -1,3 +1,22 @@
-/**
-Jashith CSS on GitHub v01
-*/
+.jc-btn {background-color:#DFDFDF;}
+
+.jc-fl {display:inline-block;}
+
+.jc-p100 {width:100%;}
+.jc-p75 {width:75%;}
+.jc-p50 {width:50%;}
+.jc-p25 {width:25%;}
+.jc-p66 {width:66.6666%;}
+.jc-p33 {width:33.3333%;}
+
+.jc-tc{text-align:center;}
+.jc-tl{text-align:left;}
+.jc-tr{text-align:right;}
+.jc-tj{text-align:justify;}
+
+.jc-grow {
+    transition: all .2s ease-in-out;
+}
+.jc-grow:hover {
+    transform: scale(1.1);
+}
