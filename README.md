@@ -1,2 +1,0 @@
-# jashithcomputers.io
-file host
