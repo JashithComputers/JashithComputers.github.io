@@ -1,5 +1,5 @@
 	JCL_firebase.setup({
-		DB_DOMAIN:"sridevidigital-com"
+		DB_DOMAIN:"grdigital-com"
 	});
 	
 	function googleLogin(){
